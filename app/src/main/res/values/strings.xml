@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prueba</string>
+    <string name="action_settings">Settings</string>
+    <string name="to">Para</string>
+    <string name="subject">Asunto</string>
+    <string name="message">Mensaje</string>
+    <string name="send">Enviar</string>
+
+</resources>

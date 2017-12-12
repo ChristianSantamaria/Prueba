@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- Colores vivos -->
+    <color name="colorRojo">#C70039</color>
+    <color name="colorAzul">#3498DB</color>
+    <color name="colorVerde">#2ECC71</color>
+    <color name="colorAmarillo">#F4D03F</color>
+
+    <!-- Colores apagados -->
+    <color name="colorRojoM">#F5B7B1</color>
+    <color name="colorAzulM">#AED6F1</color>
+    <color name="colorVerdeM">#A9DFBF</color>
+    <color name="colorAmarilloM">#F9E79F</color>
+
+    <!-- Pulsado-->
+
+
+</resources>
