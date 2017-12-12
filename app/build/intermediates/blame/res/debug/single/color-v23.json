@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/local/DANIELCASTELAO/csantamariacameselle/AndroidStudioProjects/Prueba/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/local/DANIELCASTELAO/csantamariacameselle/.android/build-cache/e17950f291516fefbe0b3b00b224eb98544e08d2/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/local/DANIELCASTELAO/csantamariacameselle/AndroidStudioProjects/Prueba/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/local/DANIELCASTELAO/csantamariacameselle/.android/build-cache/e17950f291516fefbe0b3b00b224eb98544e08d2/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/local/DANIELCASTELAO/csantamariacameselle/AndroidStudioProjects/Prueba/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/local/DANIELCASTELAO/csantamariacameselle/.android/build-cache/e17950f291516fefbe0b3b00b224eb98544e08d2/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/local/DANIELCASTELAO/csantamariacameselle/AndroidStudioProjects/Prueba/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/local/DANIELCASTELAO/csantamariacameselle/.android/build-cache/e17950f291516fefbe0b3b00b224eb98544e08d2/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/local/DANIELCASTELAO/csantamariacameselle/AndroidStudioProjects/Prueba/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/local/DANIELCASTELAO/csantamariacameselle/.android/build-cache/e17950f291516fefbe0b3b00b224eb98544e08d2/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/local/DANIELCASTELAO/csantamariacameselle/AndroidStudioProjects/Prueba/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/local/DANIELCASTELAO/csantamariacameselle/.android/build-cache/e17950f291516fefbe0b3b00b224eb98544e08d2/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/local/DANIELCASTELAO/csantamariacameselle/AndroidStudioProjects/Prueba/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/local/DANIELCASTELAO/csantamariacameselle/.android/build-cache/e17950f291516fefbe0b3b00b224eb98544e08d2/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/local/DANIELCASTELAO/csantamariacameselle/AndroidStudioProjects/Prueba/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/local/DANIELCASTELAO/csantamariacameselle/.android/build-cache/e17950f291516fefbe0b3b00b224eb98544e08d2/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/local/DANIELCASTELAO/csantamariacameselle/AndroidStudioProjects/Prueba/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/local/DANIELCASTELAO/csantamariacameselle/.android/build-cache/caf00eedb403941b6b06f10b80357874f9c46bd7/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/local/DANIELCASTELAO/csantamariacameselle/AndroidStudioProjects/Prueba/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/local/DANIELCASTELAO/csantamariacameselle/.android/build-cache/e17950f291516fefbe0b3b00b224eb98544e08d2/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/local/DANIELCASTELAO/csantamariacameselle/AndroidStudioProjects/Prueba/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/local/DANIELCASTELAO/csantamariacameselle/.android/build-cache/e17950f291516fefbe0b3b00b224eb98544e08d2/output/res/color-v23/abc_tint_seek_thumb.xml"
+    }
+]

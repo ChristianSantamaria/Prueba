@@ -1,0 +1,7 @@
+#Thu Nov 30 11:30:03 CET 2017
+base.0=/home/local/DANIELCASTELAO/csantamariacameselle/AndroidStudioProjects/Prueba/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_612bf7cac400b589ff784b5a1850671af824e5b1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/local/DANIELCASTELAO/csantamariacameselle/AndroidStudioProjects/Prueba/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e55780f34342e22ca76e70f9c6bda5ce83f661ca/classes.dex
+base.1=/home/local/DANIELCASTELAO/csantamariacameselle/AndroidStudioProjects/Prueba/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e55780f34342e22ca76e70f9c6bda5ce83f661ca
+file.0=/home/local/DANIELCASTELAO/csantamariacameselle/AndroidStudioProjects/Prueba/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_612bf7cac400b589ff784b5a1850671af824e5b1/classes.dex
